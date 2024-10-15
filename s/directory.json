@@ -1,0 +1,77 @@
+{
+    "base" : {
+        "songCount" : 4,
+        "songGroups" : [
+            ["AAAA",0,3]
+        ],
+        "songURL" : "songs/base"
+    },
+    "baseImages" : [
+        [
+            "alto" , "svg/title/alto.svg"
+        ],
+        [
+            "grain" , "svg/grain.svg"
+        ],
+        [
+            "compose" , "svg/menu/compose.svg"
+        ],
+        [
+            "settings" , "svg/menu/settings.svg"
+        ],
+        [
+            "songs" , "svg/menu/songs.svg"
+        ],
+        [
+            "myAccount" , "svg/menu/myAccount.svg"
+        ],
+        [
+            "customSongs" , "svg/menu/customSongs.svg"
+        ],
+        [
+            "divider" , "svg/divider.svg"
+        ],
+        [
+            "playButton" , "svg/playButton.svg"
+        ],
+        [
+            "comboDeco" , "svg/comboDeco.svg"
+        ],
+        [
+            "backButton", "svg/backButton.svg"
+        ],
+        [
+            "bottomSongDivider", "svg/bottomSongDivider.svg"
+        ],
+        [
+            "difficultyDivider", "svg/difficultyDivider.svg"
+        ],
+        [
+            "title", "svg/title/title.svg"
+        ],
+        [
+            "mark", "svg/title/mark.svg"
+        ],
+        [
+            "ripple", "svg/title/ripple.svg"
+        ],
+        [
+            "youtubeBranding" , "YouTubeBranding.png"
+        ],
+        [
+            "baseSongs" , "svg/baseSongs.svg"
+        ],
+        [
+            "clyde" , "svg/clyde.svg"
+        ],
+        [
+            "mail" , "svg/mail.svg"
+        ],
+        [
+            "stars" , "svg/starsNew.svg"
+        ],
+        [
+            "moon" , "svg/moon.svg"
+        ]
+    ]
+}
