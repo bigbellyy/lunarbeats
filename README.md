@@ -1,6 +1,4 @@
-**[lunarbeats]([url](https://lunarbeats.app/))**
-
-URL : https://lunarbeats.app/
+[lunarbeats](https://lunarbeats.app/)
 
 lunarbeats is a free online rhythm game where users can upload beatmaps to share with others.
 
