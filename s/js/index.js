@@ -1,5 +1,7 @@
 'use strict';
 
+//Created by Herman Ben Toledo
+
 //Load YouTube widget API
 var tag = document.createElement('script');
 tag.src = "https://www.youtube.com/iframe_api";
