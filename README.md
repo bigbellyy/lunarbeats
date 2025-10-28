@@ -19,8 +19,7 @@ Everything front end is located in the "s" folder (short for static).
 A few files such as music, songs, and images are missing due to Github file limitations and potential copyright infringement.
 
 Created by Herman Ben Toledo
-_I began this project late 2022, heavily inspired by the indie game "OMORI" initially.
-_
+I began this project late 2022, heavily inspired by the indie game "OMORI" initially.
 
 ## License
 This project does not have an open-source license. It is available publicly for educational and portfolio purposes only. Reuse, modification, or distribution without permission is prohibited.
