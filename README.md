@@ -1,17 +1,17 @@
-This is a personal passion project to learn web development.
+## This is a personal passion project created to explore web development.
 
 The codebase prioritizes rapid iteration of features and systems over polish.
 
-Viewers discretion is advised.
+
 
 [lunarbeats](https://lunarbeats.app/)
 
-lunarbeats is a free online rhythm game where users can upload beatmaps to share with others.
+lunarbeats is a free online rhythm game where users can create beatmaps to share and play with others.
 
-In order to handle music playing, lunarbeats uses the YouTube embeded player to seemlessly and effortlessly
+In order to handle music playing, lunarbeats uses the YouTube embeded player to seamlessly and effortlessly
 play songs without the need for any downloads.
 
-Players entering the beatmap editor will have to input a YouTube video URL that will be used for music.
+Players entering the beatmap editor will be prompted to input a YouTube video URL that will be used as the music for the beatmap.
 
 Online storage of beatmaps is currently provided by MongoDB Atlas.
 - There is a 5MB limit for each player.
@@ -26,7 +26,7 @@ A few files such as music, songs, and images are missing due to Github file limi
 
 Created by Herman Ben Toledo
 
-I began this project late 2022, heavily inspired by the indie game "OMORI" initially. The original name for this app was "Suzune".
+I began this project late 2022. The game is heavily inspired by osu mania. The original name for this app was "Suzune".
 
 ## License
 This project does not have an open-source license. It is available publicly for educational and portfolio purposes only. Reuse, modification, or distribution without permission is prohibited.
