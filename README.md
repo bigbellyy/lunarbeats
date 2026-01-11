@@ -1,5 +1,7 @@
 This is a personal passion project to learn web development.
+
 The codebase prioritizes rapid iteration of features and systems over polish.
+
 Viewers discretion is advised.
 
 [lunarbeats](https://lunarbeats.app/)
