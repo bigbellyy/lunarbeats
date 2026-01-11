@@ -24,7 +24,7 @@ const client = new MongoClient(uri, {
 const maxMemoryUsage = 150000;
 
 //Set up static files
-app.use(express.static("s"));
+app.use(express.static("public"));
 
 const apiLimiter = rateLimit({
     windowMs: 10 * 60 * 100,
@@ -620,3 +620,4 @@ function generateToken() {
 }
 
 app.listen(3000);
+
