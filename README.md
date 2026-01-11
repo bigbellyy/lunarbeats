@@ -1,3 +1,7 @@
+This is a personal passion project to learn web development.
+The codebase prioritizes rapid iteration of features and systems over polish.
+Viewers discretion is advised.
+
 [lunarbeats](https://lunarbeats.app/)
 
 lunarbeats is a free online rhythm game where users can upload beatmaps to share with others.
@@ -15,7 +19,7 @@ Online storage of beatmaps is currently provided by MongoDB Atlas.
 The backend is made using NodeJS along with ExpressJS and a few other dependencies.
 You can view the backend by viewing the app.js file in the root folder.
 
-Everything front end is located in the "s" folder (short for static).
+Everything front end is located in the "public" directory.
 A few files such as music, songs, and images are missing due to Github file limitations and potential copyright infringement.
 
 Created by Herman Ben Toledo
