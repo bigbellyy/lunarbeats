@@ -6,7 +6,7 @@ The codebase prioritizes rapid iteration of features and systems over polish.
 
 [lunarbeats](https://lunarbeats.app/)
 
-[Old YouTube teaser If link doesn't work or if it's not working.]([url](https://www.youtube.com/watch?v=bVyxlHv9yqc))
+[Old YouTube teaser (if the link doesn’t work)](https://www.youtube.com/watch?v=bVyxlHv9yqc)
 
 lunarbeats is a free online rhythm game where users can create beatmaps to share and play with others.
 
